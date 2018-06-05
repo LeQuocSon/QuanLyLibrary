@@ -1,0 +1,10 @@
+F:\AppThuVien\ThuVien\obj\Debug\ThuVien.csprojAssemblyReference.cache
+F:\AppThuVien\ThuVien\obj\Debug\LibraryManagement.Form1.resources
+F:\AppThuVien\ThuVien\obj\Debug\ThuVien.Properties.Resources.resources
+F:\AppThuVien\ThuVien\obj\Debug\LibraryManagement.SuaSach.resources
+F:\AppThuVien\ThuVien\obj\Debug\LibraryManagement.SuaSV.resources
+F:\AppThuVien\ThuVien\obj\Debug\LibraryManagement.ThemSach.resources
+F:\AppThuVien\ThuVien\obj\Debug\LibraryManagement.ThemSV.resources
+F:\AppThuVien\ThuVien\obj\Debug\LibraryManagement.ThuVien.resources
+F:\AppThuVien\ThuVien\obj\Debug\ThuVien.csproj.GenerateResource.cache
+F:\AppThuVien\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache

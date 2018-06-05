@@ -1,4 +1,4 @@
-﻿namespace ThuVien
+﻿namespace LibraryManagement
 {
     partial class Form1
     {

@@ -8,12 +8,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using LibraryManagement;
 
 namespace LibraryManagement
 {
     public partial class SuaSach : Form
     {
-        QuanLyThuVienEntities db = new QuanLyThuVienEntities();
+         db = new QuanLyThuVienEntities();
         private string ID;
         public SuaSach(string id)
         {
